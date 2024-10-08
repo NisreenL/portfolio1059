@@ -1,0 +1,27 @@
+* {
+    background-color: #fffed8;
+    color: #000000;
+    font-weight: 500;
+    font-style: normal;
+}
+
+legend {
+    font-weight: 800;
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+span {
+    color: #e63946;
+    font-style: bold;
+}
+
+input {
+    background-color: #ffffff;
+    border-radius: 3px;
+}
+
+fieldset {
+    border-color: #ffbb8a;
+    border-radius: 10px;
+}
